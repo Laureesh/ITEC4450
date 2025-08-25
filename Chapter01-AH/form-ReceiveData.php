@@ -14,7 +14,7 @@
 
         <div class="w3-container w3-sand">
             <?php
-            # When using GET method, data is visible in the URL<br>
+            # When using GET method, data is visible in the URL.<br>
             # When using POST method, data is not visible in the URL
                 /* Debugging code
                 echo "<pre>";
