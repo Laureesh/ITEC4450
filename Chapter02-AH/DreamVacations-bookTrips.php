@@ -26,7 +26,7 @@
         </header>
         <nav class="w3-bar w3-border w3-light-grey">
             <a href="DreamVacations-bookTrips.php" class="w3-bar-item w3-button">Booking</a>
-            <a href="DreamVacations-showReservations.php" class="w3-bar-item w3-button">Show Reservations</a>
+            <a href="DreamVacations-showReservations2.php" class="w3-bar-item w3-button">Show Reservations</a>
         </nav>
         <form action="" class="w3-container" method="POST">
         <label>First name</label>
